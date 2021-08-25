@@ -63,6 +63,7 @@ theme = 'hugo-theme-shell'
     ["Projects", "/posts/projects.md"],
     ["Spotify", "https://open.spotify.com/artist/7cLB1nipcXLsi6ZMH83dGm"],
     ["Twitter", "https://twitter.com/o__boga"],
+    ["Steam", "https://steamcommunity.com/id/o__boga"],
     ["Github", "https://github.com/miguelrcborges"],
   ]
 
